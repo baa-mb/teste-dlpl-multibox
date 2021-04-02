@@ -5,8 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "dlpl-multibox": "github:baa-mb/dlpl-multibox#v0.0.9",
-        "servo": "*"
+        "dlpl-multibox": "github:baa-mb/dlpl-multibox#master"
     },
     "files": [
         "main.blocks",
